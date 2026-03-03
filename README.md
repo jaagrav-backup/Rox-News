@@ -29,7 +29,8 @@ git clone https://github.com/jaagrav-backup/Rox-News.git
 Developed the app using the MVVM architecture with the app being separated into layers of views, models and view models. Here view models hold the business functions, and APIs.
 I am also using singleton classes to share filter state across multiple views. One of the shortcuts I took that I would do differently was use matchedGeomtry for the navigation 
 transition, as one of the design guidelines is that it's a good idea to have intentional animations like morphing and zooming in from where the user clicks so they can easily 
-figure out where they came from. It would add that cherry on top in the UX that the app currently offers.
+figure out where they came from. It would add that cherry on top in the UX that the app currently offers. Also currently the pagination is done from filters sheet
+however I think a better execution would've been if I added infinite scrolling instead.
 
 ## Features
 - Everything and Top headlines news feeds
