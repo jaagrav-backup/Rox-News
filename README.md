@@ -1,7 +1,7 @@
 # Rox News
 > Power by News API
 
-<img width="3840" height="2160" alt="Screenshots - Rox News" src="https://github.com/user-attachments/assets/0cdfa6d5-f9cb-465f-aa2e-a3dd8abd5379" />
+<img width="3840" height="2160" alt="Screenshots - Rox News (1)" src="https://github.com/user-attachments/assets/42e52fc6-d166-48fe-a7d9-31957da9dd16" />
 
 ## Minimum Prerequisites
 - iOS/macOS 26.0
